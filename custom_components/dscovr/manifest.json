@@ -1,0 +1,7 @@
+{
+    "domain": "dscovr",
+    "name": "DSCOVR",
+    "documentation": "https://github.com/TRU5T/DSCOVR",
+    "codeowners": ["TRU5T"],
+    "requirements": []
+  }
